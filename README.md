@@ -1,2 +1,2 @@
-# IPTV_Player
-IPTV Player
+# IPTV Player
+Edit as you wish
